@@ -24,6 +24,6 @@ Now it is configured. You can click on the _Static website hosting_ panel again 
 
 Now go back to your bucket and click the _Upload_ button.
 
-In the panel that appears, you can simply drag & drop your files from Windows Explorer or the Mac Finder app onto that panel. Grab the direct files from the dist (build) folder. If you have any folder within the build/dist folder, keep those intact. The index.html file should not be within a folder. Once all the files/folders are added, open each file and click the blue "make public" button for each file (even files within other folders).
+In the panel that appears, you can simply drag & drop your files from Windows Explorer or the Mac Finder app onto that panel. Grab the direct files from the dist (build) folder. If you have any folders within the build/dist folder, keep those intact. The index.html file should not be within a folder. Once all the files/folders are added, open each file and click the blue "make public" button for each file (even files within other folders).
 
 Once the files are uploaded, refresh the URL you clicked on previously and you should see your application.
